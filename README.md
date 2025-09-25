@@ -75,9 +75,9 @@ ai-english-exercise-generator/
 
 ## API配置
 
-本项目使用Google Gemini API生成英语练习内容。你需要：
+本项目使用Google Gemini API、硅基流动 API 生成英语练习内容。你需要：
 
-1. 访问 [Google AI Studio](https://makersuite.google.com/app/apikey)
+1. 访问 [Google AI Studio](https://makersuite.google.com/app/apikey) 或者 （https://www.siliconflow.cn/）
 2. 创建API密钥
 3. 在 `.env.local` 文件中配置密钥
 
